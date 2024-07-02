@@ -1,0 +1,25 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: rgb(119, 103, 133);
+  border-radius: 25px;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #7d2e7b;
+}
